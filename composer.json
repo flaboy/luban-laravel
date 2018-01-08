@@ -1,0 +1,22 @@
+{
+  "name": "shopex/luban",
+  "type" : "library",
+  "description": "shopex luban framework for laravel",
+  "keywords": ["shopex","luban", "laravel"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wanglei",
+      "email": "wanglei@shopex.cn"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shopex\\Luban\\Framework": "src",
+    }
+  },
+  "require": {
+    "shopex/luban": "dev-master",
+    "illuminate/support": "^5.4"
+  }
+}
