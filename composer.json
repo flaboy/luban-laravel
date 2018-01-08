@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Shopex\\Luban\\Framework": "src"
+      "Shopex\\Luban\\Framework\\": "src"
     }
   },
   "require": {
