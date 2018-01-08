@@ -1,5 +1,5 @@
 {
-  "name": "shopex/luban",
+  "name": "shopex/luban-framework",
   "type" : "library",
   "description": "shopex luban framework for laravel",
   "keywords": ["shopex","luban", "laravel"],
